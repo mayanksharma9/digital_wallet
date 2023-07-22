@@ -30,7 +30,7 @@ class _MyHomePageState extends State<MyHomePage> {
       backgroundColor: Colors.grey[300],
       floatingActionButton: FloatingActionButton(onPressed: (){},
       backgroundColor: Colors.amberAccent,
-      child: Icon(Icons.monetization_on),),
+      child: const Icon(Icons.monetization_on),),
       floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
       bottomNavigationBar: BottomAppBar(
         color: Colors.white,
@@ -39,9 +39,9 @@ class _MyHomePageState extends State<MyHomePage> {
           child: Row(
             mainAxisAlignment: MainAxisAlignment.spaceAround,
             children: [
-              IconButton(onPressed: () {}, icon: Icon(Icons.home,size: 32,color: Colors.red,),),
+              IconButton(onPressed: () {}, icon: const Icon(Icons.home,size: 32,color: Colors.red,),),
         
-              IconButton(onPressed: () {}, icon: Icon(Icons.settings, size: 32, color: Colors.red,),)
+              IconButton(onPressed: () {}, icon: const Icon(Icons.settings, size: 32, color: Colors.red,),)
             ],
           ),
         ),

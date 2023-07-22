@@ -1,10 +1,16 @@
 # digital_wallet
 
-A new Flutter project.
+This is UI for the app
 
-## Getting Started
+https://github.com/mayanksharma9/digital_wallet/assets/87018443/a7433cc1-eae3-40ee-95eb-06de595e2e19
 
-This project is a starting point for a Flutter application.
+![Screenshot_20230721-181406](https://github.com/mayanksharma9/digital_wallet/assets/87018443/18bcc190-4ae1-4936-aa6c-78934e8dd593)
+
+I've created a UI for a digital Wallet where you can save your cards and see the transaction history.
+
+You can also pay your bills using this card in the app and send money or pay to some merchants as well.
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
